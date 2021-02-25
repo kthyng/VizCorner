@@ -68,7 +68,7 @@ A.~Light and P.~J. Bartlein, ``The end of the rainbow? color schemes for
 \bibitem{brewer}
 \BIBentryALTinterwordspacing
 C.~Brewer and M.~Harrower, ``Color brewer 2.0,'' 2013. [Online]. Available:
-  \url{\burl{https://github.com/axismaps/colorbrewer}}
+  \url{\url{https://github.com/axismaps/colorbrewer}}
 \BIBentrySTDinterwordspacing
 
 \bibitem{crameri2018geodynamic}
@@ -79,7 +79,7 @@ F.~Crameri, ``Geodynamic diagnostics, scientific visualisation and staglab
 \bibitem{mycarta}
 \BIBentryALTinterwordspacing
 M.~Niccoli, ``Color palettes.'' [Online]. Available:
-  \url{\burl{mycarta.wordpress.com/color-palettes/}}
+  \url{\url{mycarta.wordpress.com/color-palettes/}}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
